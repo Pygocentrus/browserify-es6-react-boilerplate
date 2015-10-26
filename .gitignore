@@ -1,0 +1,11 @@
+/**/.DS_Store
+
+dist/
+app/scripts/app.js
+app/scripts/vendors.js
+app/styles/app.css
+
+node_modules/
+app/bower_components/
+
+dploy.yaml

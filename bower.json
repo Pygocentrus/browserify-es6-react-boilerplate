@@ -1,0 +1,22 @@
+{
+  "name": "browserify-es6-react-boilerplate",
+  "version": "0.0.1",
+  "authors": [
+    "Pygocentrus <pierre.guilhou14@gmail.com>"
+  ],
+  "moduleType": [
+    "amd",
+    "es6",
+    "node"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "app/bower_components",
+    "dist",
+    "test",
+    "tests"
+  ],
+  "dependencies": {}
+}
